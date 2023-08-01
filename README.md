@@ -22,4 +22,7 @@
 
 -👩🏾‍💻Áreas de interesse: ciência de dados, aprendizado de máquina, estatística, processamento de linguagem natural, análise de dados...
 
--💭 "Education is the most powerful weapon you can use to change the world." - Nelson Mandela
+
+
+
+-💭 "Education is the most powerful weapon you can use to change the world."  Nelson Mandela....
